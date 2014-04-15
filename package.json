@@ -1,0 +1,16 @@
+{
+  "name": "code42day-timepicker",
+  "description": "Timepicker component",
+  "version": "1.1.2",
+  "keywords": [],
+  "styles": [
+    "lib/timepicker.css"
+  ],
+  "dependencies": {
+    "code42day-clock": "git://github.com/npmcomponent/code42day-clock.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-popover": "git://github.com/npmcomponent/component-popover.git"
+  },
+  "license": "MIT"
+}
